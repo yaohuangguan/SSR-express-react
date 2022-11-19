@@ -43,6 +43,6 @@
     "webpack-node-externals": "1.6.0"
   },
   "devDependencies": {
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.12"
   }
 }
